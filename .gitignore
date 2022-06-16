@@ -1,0 +1,9 @@
+# delete everything
+/*
+
+# except (!)
+!.gitignore
+!SoundFilePlayer.jucer
+!Source
+!Readme.md
+!gui.PNG
